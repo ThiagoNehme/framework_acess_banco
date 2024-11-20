@@ -1,0 +1,15 @@
+{
+    "name": "livro-servidor",
+    "version": "1.0.0",
+    "description": "Servidor Express e Mongoose para gerenciar livros",
+    "main": "app.js",
+    "scripts": {
+      "start": "node ./bin/www"
+    },
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "mongoose": "^7.2.0"
+    }
+  }
+  
